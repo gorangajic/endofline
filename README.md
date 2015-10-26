@@ -1,4 +1,4 @@
-##endofline
+## endofline
 
 Simple module that returns end of line base on the os.platform() in node.
 When platform is windows it will return '\r\n' and in other case it will return '\n'

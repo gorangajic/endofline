@@ -1,7 +1,7 @@
 {
   "name": "endofline",
   "version": "0.0.1",
-  "description": "just returns os end of line",
+  "description": "just return end of line based on the os.platform()",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

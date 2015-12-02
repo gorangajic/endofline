@@ -1,6 +1,6 @@
 {
   "name": "endofline",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "just return end of line based on the os.platform()",
   "main": "index.js",
   "scripts": {
